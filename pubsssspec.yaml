@@ -1,0 +1,3 @@
+dependencies:
+  bloc: ^8.0.0
+  http: ^0.13.4
